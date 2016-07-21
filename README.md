@@ -11,7 +11,7 @@ To gain a solid understanding of Operators, System Input/Output, Conditional Sta
   
 ### Part 2
 
-1.  What is the outcome of the following conditional statements if the value of variable x is 5?
+1.  What is the outcome of the following conditional statements if the value of variable x is 5?  Show your work.
 
     a.  ``` x <= 4 || (x != 9  && x > 10) ```
     
